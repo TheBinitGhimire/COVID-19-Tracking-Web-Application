@@ -1,0 +1,17 @@
+{
+  "name": "COVID-19 Tracking Web Application V2.0",
+  "short_name": "Tracking COVID-19",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1F2739",
+  "description": "COVID-19 Tracking Web Application V2.0, an upgrade to multiple-award winning project!",
+  "icons": [{
+    "src": "assets/img/icon.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  },],
+  "related_applications": [{
+    "platform": "play",
+    "url": "#"
+  }]
+}
